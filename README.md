@@ -1,1 +1,1 @@
-# Social-Media-Data-Mining
+# Crypto Trading Bot
